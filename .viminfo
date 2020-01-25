@@ -23,12 +23,54 @@
 	sucessfully
 
 # File marks:
-'0  1  7  ~/ansible_implementation/custom.fact
-'1  17  64  ~/ansible_implementation/deploy_apache.yml
-'2  20  0  ~/ansible_implementation/deploy_apache.yml
-'3  4  8  ~/ansible_implementation/check_webservers.yml
+'0  1  3  ~/gitignore
+'1  1  7  ~/ansible_implementation/custom.fact
+'2  17  64  ~/ansible_implementation/deploy_apache.yml
+'3  20  0  ~/ansible_implementation/deploy_apache.yml
+'4  4  8  ~/ansible_implementation/check_webservers.yml
 
 # Jumplist (newest first):
+-'  1  3  ~/gitignore
+-'  1  7  ~/ansible_implementation/custom.fact
+-'  2  0  ~/ansible_implementation/custom.fact
+-'  17  64  ~/ansible_implementation/deploy_apache.yml
+-'  20  0  ~/ansible_implementation/deploy_apache.yml
+-'  1  0  ~/ansible_implementation/deploy_apache.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  17  64  ~/ansible_implementation/deploy_apache.yml
+-'  20  0  ~/ansible_implementation/deploy_apache.yml
+-'  1  0  ~/ansible_implementation/deploy_apache.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
 -'  1  7  ~/ansible_implementation/custom.fact
 -'  2  0  ~/ansible_implementation/custom.fact
 -'  17  64  ~/ansible_implementation/deploy_apache.yml
@@ -71,6 +113,12 @@
 -'  1  0  ~/ansible_implementation/check_webservers.yml
 
 # History of marks within files (newest to oldest):
+
+> ~/gitignore
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
 > ~/ansible_implementation/custom.fact
 	"	1	7
