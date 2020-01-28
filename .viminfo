@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 
 # Search String History (newest to oldest):
 
@@ -20,19 +20,43 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+""1	LINE	0
+	=======
+	.htaccess
+	css.php
+	rpc/
+	sites/site*/admin/
+	sites/site*/private/
+	sites/site*/public/admin/
+	sites/site*/public/setup/
+	sites/site*/public/theme/
+	textpattern/
+	HISTORY.txt
+	README.txt
+	>>>>>>> b657f788f73d8bd5ba495a0300788fe76bc4bf8e
+"2	LINE	0
+	../
+"3	LINE	0
+	./
+"4	LINE	0
+	<<<<<<< HEAD
+"-	CHAR	0
 	sucessfully
 
 # File marks:
-'0  7  6  ~/ansible_implementation/setup_facts_httpd.yml
-'1  12  26  ~/ansible_implementation/setup_facts.yml
-'2  1  0  ~/gitignore
-'3  1  7  ~/ansible_implementation/custom.fact
-'4  17  64  ~/ansible_implementation/deploy_apache.yml
-'5  20  0  ~/ansible_implementation/deploy_apache.yml
-'6  4  8  ~/ansible_implementation/check_webservers.yml
+'0  10  0  ~/.gitignore
+'1  7  6  ~/ansible_implementation/setup_facts_httpd.yml
+'2  12  26  ~/ansible_implementation/setup_facts.yml
+'3  1  0  ~/gitignore
+'4  1  7  ~/ansible_implementation/custom.fact
+'5  17  64  ~/ansible_implementation/deploy_apache.yml
+'6  20  0  ~/ansible_implementation/deploy_apache.yml
+'7  4  8  ~/ansible_implementation/check_webservers.yml
 
 # Jumplist (newest first):
+-'  10  0  ~/.gitignore
+-'  11  0  ~/.gitignore
+-'  1  0  ~/.gitignore
 -'  7  6  ~/ansible_implementation/setup_facts_httpd.yml
 -'  1  0  ~/ansible_implementation/setup_facts_httpd.yml
 -'  12  26  ~/ansible_implementation/setup_facts.yml
@@ -129,9 +153,14 @@
 -'  1  0  ~/ansible_implementation/check_webservers.yml
 -'  4  8  ~/ansible_implementation/check_webservers.yml
 -'  1  0  ~/ansible_implementation/check_webservers.yml
--'  4  8  ~/ansible_implementation/check_webservers.yml
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	"	10	0
+	.	11	0
+	+	1	0
+	+	11	0
 
 > ~/ansible_implementation/setup_facts_httpd.yml
 	"	7	6
