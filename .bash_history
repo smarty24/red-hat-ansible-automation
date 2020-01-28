@@ -128,3 +128,46 @@ vi custom.fact
 exit
 echo $GUID
 cd ansible_implementation
+ll
+git status
+cd ..
+ll
+cd devops/
+ll
+git init
+git add .
+git commit -m "ansible implementation"
+git config user.email "smartiano24@yahoo.com"
+git config user.name "kaycee"
+git commit -m "ansible implementation"
+git status
+git rm .
+git rm . -r
+git rm -r . 
+git rm -rf . 
+git rm -rf 
+ll
+ll -a
+vi gitignore
+ll
+git add .
+git status
+git reset HEAD 
+git status
+git add .
+git status
+git commit -m "first commit"
+git push --help
+git push https://github.com/smarty24/Red-Hat-Ansible-Automation-for-SAP-Solutions
+git fetch 
+git fetch https://github.com/smarty24/Red-Hat-Ansible-Automation-for-SAP-Solutions
+ll
+git push https://github.com/smarty24/Red-Hat-Ansible-Automation-for-SAP-Solutions
+git pull
+git pull https://github.com/smarty24/Red-Hat-Ansible-Automation-for-SAP-Solutions
+ll
+git status
+git push https://github.com/smarty24/Red-Hat-Ansible-Automation-for-SAP-Solutions
+git rm -rf .
+git status
+exit

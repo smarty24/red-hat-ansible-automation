@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q
 :wq
 
 # Search String History (newest to oldest):
@@ -23,14 +24,20 @@
 	sucessfully
 
 # File marks:
-'0  1  3  ~/gitignore
-'1  1  7  ~/ansible_implementation/custom.fact
-'2  17  64  ~/ansible_implementation/deploy_apache.yml
-'3  20  0  ~/ansible_implementation/deploy_apache.yml
-'4  4  8  ~/ansible_implementation/check_webservers.yml
+'0  7  6  ~/ansible_implementation/setup_facts_httpd.yml
+'1  12  26  ~/ansible_implementation/setup_facts.yml
+'2  1  0  ~/gitignore
+'3  1  7  ~/ansible_implementation/custom.fact
+'4  17  64  ~/ansible_implementation/deploy_apache.yml
+'5  20  0  ~/ansible_implementation/deploy_apache.yml
+'6  4  8  ~/ansible_implementation/check_webservers.yml
 
 # Jumplist (newest first):
--'  1  3  ~/gitignore
+-'  7  6  ~/ansible_implementation/setup_facts_httpd.yml
+-'  1  0  ~/ansible_implementation/setup_facts_httpd.yml
+-'  12  26  ~/ansible_implementation/setup_facts.yml
+-'  1  0  ~/ansible_implementation/setup_facts.yml
+-'  1  0  ~/gitignore
 -'  1  7  ~/ansible_implementation/custom.fact
 -'  2  0  ~/ansible_implementation/custom.fact
 -'  17  64  ~/ansible_implementation/deploy_apache.yml
@@ -111,11 +118,39 @@
 -'  1  0  ~/ansible_implementation/check_webservers.yml
 -'  4  8  ~/ansible_implementation/check_webservers.yml
 -'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  1  7  ~/ansible_implementation/custom.fact
+-'  2  0  ~/ansible_implementation/custom.fact
+-'  17  64  ~/ansible_implementation/deploy_apache.yml
+-'  20  0  ~/ansible_implementation/deploy_apache.yml
+-'  1  0  ~/ansible_implementation/deploy_apache.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
+-'  1  0  ~/ansible_implementation/check_webservers.yml
+-'  4  8  ~/ansible_implementation/check_webservers.yml
 
 # History of marks within files (newest to oldest):
 
+> ~/ansible_implementation/setup_facts_httpd.yml
+	"	7	6
+	^	7	56
+	.	7	55
+	+	7	55
+
+> ~/ansible_implementation/setup_facts.yml
+	"	12	26
+	^	12	27
+	.	12	26
+	+	12	29
+	+	15	28
+	+	16	15
+	+	15	25
+	+	12	26
+
 > ~/gitignore
-	"	1	3
+	"	1	0
 	^	1	4
 	.	1	3
 	+	1	3
