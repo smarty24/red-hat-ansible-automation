@@ -1,0 +1,1 @@
+# red-hat-ansible-automation
