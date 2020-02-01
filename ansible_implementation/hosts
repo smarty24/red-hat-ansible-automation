@@ -1,17 +1,17 @@
-frontend1.e9a5.internal
-appdb1.e9a5.internal
-app1.e9a5.internal
-support1.e9a5.internal
-app2.e9a5.internal
+frontend1.6112.internal
+appdb1.6112.internal
+app1.6112.internal
+support1.6112.internal
+app2.6112.internal
 [lb]
-frontend1.e9a5.internal
+frontend1.6112.internal
 
 [webservers]
-app1.e9a5.internal
-app2.e9a5.internal
+app1.6112.internal
+app2.6112.internal
 
 [db]
-appdb1.e9a5.internal
+appdb1.6112.internal
 
 [webservers:vars]
 ansible_user = devops
